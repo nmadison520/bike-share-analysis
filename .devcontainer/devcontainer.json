@@ -1,0 +1,11 @@
+{
+    "name": "Python Dev Container",
+    "image": "container.cs.vt.edu/hillman/cs2064docker",
+    "settings": {
+        "python.pythonPath": "/usr/local/bin/python"
+        },
+    "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+        ]
+}

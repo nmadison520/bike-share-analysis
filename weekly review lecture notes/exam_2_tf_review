@@ -1,0 +1,19 @@
+#In Python, an abstract class can contain both abstract methods 
+#(without implementation) and concrete methods (with implementation).
+#true; both can be used 
+
+#the only instance when the data is modified in place is 
+#df.drop and df.fillna
+
+def cumulativeSum(aList):
+    result = []
+    for num in aList:
+        if num == aList[0]:
+            result.append(num)
+        else:
+            result.append(num + result[-1])
+          
+    return result
+
+print(cumulativeSum([1, 1, 2]))
+
