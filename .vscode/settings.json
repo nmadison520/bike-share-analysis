@@ -1,6 +1,0 @@
-{
-    "files.exclude": {
-        "**/.*": true
-        },
-    "remote.autoForwardPorts": false
-}
