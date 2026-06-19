@@ -1,7 +1,7 @@
 # Bike Share Usage Analysis Norfolk VA
 
 ## Overview 
-This project recieves and analyzes bike share data regaring usage in Norfolk over an extended period of time to identify patterns in usage and frequency, trip behavior, and trends.
+This project receives and analyzes bike share data regarding usage in Norfolk over an extended period of time to identify patterns in usage and frequency, trip behavior, and trends.
 
 ## Tools used
 -Python (pandas, numpy)
